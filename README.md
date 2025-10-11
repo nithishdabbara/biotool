@@ -33,46 +33,4 @@ Frontend: HTML5, CSS3, Tailwind CSS, JavaScript, Chart.js
 
 Build Tool: Maven
 
-🚀 How to Run Locally
-To get a local copy up and running, follow these simple steps.
-
-Prerequisites
-Java JDK 17 or higher
-
-Maven
-
-A running MySQL server instance
-
-Installation
-Clone the repo
-
-git clone [https://github.com/your_username/biotool-backend.git](https://github.com/your_username/biotool-backend.git)
-
-Navigate to the project directory
-
-cd biotool-backend
-
-Set up your database
-
-In your MySQL server, create a new database:
-
-CREATE DATABASE biotooldb;
-
-Configure the application
-
-Open src/main/resources/application.properties.
-
-Update the spring.datasource.username and spring.datasource.password properties with your MySQL credentials.
-
-Run the application
-
-You can run the application using your IDE or with Maven:
-
-mvn spring-boot:run
-
-Access the application
-
-Open your browser and go to http://localhost:8080.
-
-Acknowledgements
 This project was an incredible learning experience, and I'm deeply grateful for the mentorship I received. I want to extend a special thanks to my faculty guide, [Your Faculty's Name], for their invaluable support and direction from start to finish.
