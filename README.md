@@ -32,5 +32,3 @@ Database: MySQL
 Frontend: HTML5, CSS3, Tailwind CSS, JavaScript, Chart.js
 
 Build Tool: Maven
-
-This project was an incredible learning experience, and I'm deeply grateful for the mentorship I received. I want to extend a special thanks to my faculty guide, [Your Faculty's Name], for their invaluable support and direction from start to finish.
