@@ -1,5 +1,4 @@
-# biotool
-BioTool: A Full-Stack Web Application for Bioinformatics Analysis
+# BioTool: A Full-Stack Web Application for Bioinformatics Analysis
 BioTool is a comprehensive, web-based DNA sequence analyzer built to provide researchers and students with a seamless, powerful, and user-friendly platform for genetic sequence analysis. This full-stack application features a secure Java Spring Boot backend and a dynamic, interactive frontend.
 
 🎯 Problem Statement
